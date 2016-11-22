@@ -1,0 +1,1209 @@
+
+
+
+AsuransiRespone ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>ALLIANZ</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>ALLIANZ</string></value>
+<value><string>20130609154746</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>2500</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584137</string></value>
+<value><string>0</string></value>
+<value><string>07</string></value>
+<value><string>Layanan ALLIANZ sedang dalam gangguan. Mohon maaf.</string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+ 	getAdmincharge()	: null
+ 	getAhliwarisaddress()	: null
+ 	getAhliwarisphonenumber()	: null
+ 	getBillamount()	: null
+ 	getBilleradminfee()	: null
+ 	getBillercode()	: null
+ 	getBillerrefnumber()	: null
+ 	getBillquantity()	: null
+ 	getClaimamount()	: null
+ 	getCustomeradress()	: null
+ 	getCustomerid()	: null
+ 	getCustomername()	: null
+ 	getCustomerphonenumber()	: null
+ 	getIdpelanggan1()	: NULL
+ 	getIdpelanggan2()	: null
+ 	getIdpelanggan3()	: null
+ 	getKeterangan()	: Layanan ALLIANZ sedang dalam gangguan. Mohon maaf.
+ 	getKodeproduk()	: ALLIANZ
+ 	getLastpaidduedate()	: null
+ 	getLastpaidperiode()	: null
+ 	getMiscfee()	: null
+ 	getMiscnumber()	: null
+ 	getNominal()	: 0
+ 	getNoref1()	: null
+ 	getNoref2()	: null
+ 	getPasswd()	: null
+ 	getPenalty()	: null
+ 	getPin()	: 975864
+ 	getPpn()	: null
+ 	getProductcategory()	: null
+ 	getPtname()	: null
+ 	getRef1()	: NULL
+ 	getRef2()	: 88584137
+ 	getRef3()	: 0
+ 	getStampduty()	: null
+ 	getStatus()	: 07
+ 	getSwitcherid()	: null
+ 	getUid()	: BS0002
+ 	getWaktu()	: 20130609154746
+
+
+
+GameRespone ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.game</methodName>
+<params>
+<param>
+<value><string>MS100</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>MS100</string></value>
+<value><string>20130609154747</string></value>
+<value><string>NULL</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string></string></value>
+<value><string>NULL</string></value>
+<value><string>88584138</string></value>
+<value><string>06</string></value>
+<value><string>Saldo Anda tidak mencukupi. Mohon maaf.</string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+ 	getKeterangan()	: null
+ 	getKodeProduksi()	: MS100
+ 	getNohp()	: NULL
+ 	getPin()	: 975864
+ 	getRef1()	: 88584138
+ 	getRef2()	: 06
+ 	getSn()	: NULL
+ 	getStatus()	: Saldo Anda tidak mencukupi. Mohon maaf.
+ 	getUID()	: BS0002
+ 	getWaktu()	: 20130609154747
+
+
+
+KartuKredit ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>KKCITI</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>KKCITI</string></value>
+<value><string>20130609154747</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>5000</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584140</string></value>
+<value><string>0</string></value>
+<value><string>06</string></value>
+<value><string>Saldo Anda tidak mencukupi. Mohon maaf.</string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+getIdpelanggan1()	: NULL
+getIdpelanggan2()	: null
+getIdpelanggan3()	: null
+getKodeproduk()	: KKCITI
+getNominal()	: 0
+getPasswd()	: null
+getPin()	: 975864
+getRef1()	: NULL
+getRef2()	: 88584140
+getRef3()	: 0
+getUid()	: BS0002
+getWaktu()	: 20130609154747
+getWaktu()	: 20130609154747
+
+
+
+MultiFinance ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>FNWOM</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>FNWOM</string></value>
+<value><string>20130609154751</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>0</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584145</string></value>
+<value><string>0</string></value>
+<value><string>14</string></value>
+<value><string>EXT: TRANSAKSI DITOLAK KARENA NOMOR TIDAK TERDAFTAR DALAM DATABASE BILLING</string></value>
+<value><string>0000000</string></value>
+<value><string>00</string></value>
+<value><string>38859947758</string></value>
+<value><string>01</string></value>
+<value><string>104206300029</string></value>
+<value><string>226983</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>000000000000</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>WOM FINANCE</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>000000000000</string></value>
+<value><string></string></value>
+<value><string>000000000000</string></value>
+<value><string>000000000000</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+getAdmincharge()	: null
+getBiayaadmin()	: 0
+getBillamount()	: 000000000000
+getBilleradminFree()	: null
+getBillercode()	: 00
+getBillerrefnumber()	: null
+getBillquantity()	: 01
+getBranchname()	: null
+getCarnumberl()	: null
+getChasisnumber()	: null
+getCustomerid()	: 38859947758
+getCustomername()	: 000000000000
+getIdpelanggan1()	: 38859947758
+getIdpelanggan2()	: NULL
+getIdpelanggan3()	: NULL
+getItennerktype()	: null
+getKeterangan()	: EXT: TRANSAKSI DITOLAK KARENA NOMOR TIDAK TERDAFTAR DALAM DATABASE BILLING
+getKodeproduk()	: FNWOM
+getLastpaidduedate()	: null
+getLastpaidperiode()	: NULL
+getMaximunpayamount()	: null
+getMinmumpayamount()	: null
+getMinorunit1()	: 000000000000
+getMinorunit2()	: null
+getMiscfee()	: null
+getNominal()	: 0
+getNoref1()	: 104206300029
+getNoref2()	: 226983
+getOdinstallmentamount()	: null
+getOdpenaltyfee()	: null
+getOsdinstallmentperiod()	: null
+getOsinstallmentamount()	: null
+getPin()	: 975864
+getPpn()	: null
+getProductcategory()	: WOM FINANCE
+getPtname()	: null
+getRef1()	: NULL
+getRef2()	: 88584145
+getRef3()	: 0
+getStampduty()	: 000000000000
+getStatus()	: 14
+getSwitcherid()	: 0000000
+getTenor()	: null
+getUid()	: BS0002
+getWaktu()	: 20130609154751
+
+
+
+PDAMRespone ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>WAAETRA</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>WAAETRA</string></value>
+<value><string>20130609154752</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>0</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584153</string></value>
+<value><string>0</string></value>
+<value><string>89</string></value>
+<value><string>EXT: LINK ERROR</string></value>
+<value><string>0000000</string></value>
+<value><string>00</string></value>
+<value><string>38859947758</string></value>
+<value><string>38859947758</string></value>
+<value><string>38859947758</string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>AETRA</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+	mothperiod1 : null
+	mothperiod2 : null
+	mothperiod3 : null
+	mothperiod4 : 00
+	mothperiod5 : 00
+	mothperiod6 : 00
+	nohp : null
+	nominal : 0
+	noref1 : AETRA
+	noref2 : 0
+	pdamname : null
+	penalty1 : null
+	penalty2 : null
+	penalty3 : null
+	penalty4 : 00
+	penalty5 : 00
+	penalty6 : 00
+	pin : 975864
+	ref1 : NULL
+	ref2 : 88584153
+	ref3 : 0
+	sn : null
+	status : 89
+	switcherId : 0000000
+	totalbillamount : null
+	UID : BS0002
+	waktu : 20130609154752
+	yearperiod1 : null
+	yearperiod2 : null
+	yearperiod3 : null
+	yearperiod4 : 00
+	yearperiod5 : 00
+	yearperiod6 : 00
+
+
+
+PLNnonTagList .....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>PLNNON</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>PLNNON</string></value>
+<value><string>20130609154753</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>1600</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584158</string></value>
+<value><string>0</string></value>
+<value><string>31</string></value>
+<value><string>EXT: KODE BANK TIDAK TERDAFTAR</string></value>
+<value><string>0000000</string></value>
+<value><string>38859947758</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+getAdmincharge()	: null
+getAdminchargeminorunit()	: null
+getAreacode()	: null
+getBiayaadmin()	: 1600
+getCustomerdetailminorunit1()	: null
+getCustomerdetailminorunit2()	: null
+getCustomerdetailode1()	: null
+getCustomerdetailode2()	: null
+getCustomerDetailvalueamount1()	: null
+getCustomerDetailvalueamount2()	: null
+getExpirationDate()	: null
+getIdpelanggan1()	: 38859947758
+getIdpelanggan2()	: NULL
+getIdpelanggan3()	: NULL
+getInfotext()	: null
+getKeterangan()	: EXT: KODE BANK TIDAK TERDAFTAR
+getKodeproduk()	: PLNNON
+getMutationnumber()	: null
+getNominal()	: 0
+getPin()	: 975864
+getPlnbillminourunit()	: null
+getPlnbillvalue()	: null
+getPlnrefnumber()	: null
+getPowerconsumingcategory()	: null
+getRef1()	: NULL
+getRef2()	: 88584158
+getRef3()	: 0
+getRegistrationdate()	: null
+getRegistrationnumber()	: 38859947758
+getServiceunit()	: null
+getServiceunitaddress()	: null
+getServiceunitphone()	: null
+getStatus()	: 31
+getSubcribername()	: null
+getSubcribersegmentation()	: null
+getSubscriberid()	: null
+getSwitcherId()	: 0000000
+getSwrefnumber()	: null
+getTotalrepeat()	: null
+getTotaltransactionAmmountminor()	: null
+getTotaltransactionamount()	: null
+getTransactioncode()	: null
+getTransactionname()	: null
+getUid()	: BS0002
+getWaktu()	: 20130609154753
+
+
+
+PLNPascaBayar .....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>PLNPASC</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>PLNPASC</string></value>
+<value><string>20130609154753</string></value>
+<value><string>BS0002</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>0</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string>19</string></value>
+<value><string>Maaf, Id anda tidak terdaftar.</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+ getKodeproduk : PLNPASC
+ getWaktu : 20130609154753
+ getIdpelanggan1 : BS0002
+ getIdpelanggan2 : NULL
+ getIdpelanggan3 : NULL
+ getNominal : 0
+ getBiayaadmin : 0
+ getUid : 975864
+ getPin : NULL
+ getRef1 : NULL
+ getRef2 : 0
+ getRef3 : 19
+ getStatus : Maaf, Id anda tidak terdaftar.
+ getKeterangan : null
+ getSwitcherId : null
+ getSubscriberId : null
+ getBillstatus : null
+ getPaymentstatus : null
+ getTotaloutstandingbell : null
+ getSwereferencenumber : null
+ getSubscribename : null
+ getServiceunit : null
+ getServiceunitphone : null
+ getSubscribeSegmentation : null
+ getPowerconsumingcategory : null
+ getTotaladmincharge : null
+ getBlth1 : null
+ getDuedate1 : null
+ getMeterreaddate1 : null
+ getRptag1 : null
+ getIncentive1 : null
+ getValuedatetax1 : null
+ getPinaltyfee1 : null
+ getSlalwbp1 : null
+ getSahlwbp1 : null
+ getSlawbp1 : null
+ getSahwbp1 : null
+ getSlakvarh1 : null
+ getSahkvarh1 : null
+ getBlth2 : null
+ getDuedate2 : null
+ getMeterreaddate2 : null
+ getRptag2 : null
+ getIncentive2 : null
+ getValuedatetax2 : null
+ getPinaltyfee2 : null
+ getSlalwbp2 : null
+ getSahlwbp2 : null
+ getSlawbp2 : null
+ getSahwbp2 : null
+ getSlakvarh2 : null
+ getSahkvarh2 : null
+ getBlth3 : null
+ getDuedate3 : null
+ getMeterreaddate3 : null
+ getRptag3 : null
+ getIncentive3 : null
+ getValuedatetax3 : null
+ getPinaltyfee3 : null
+ getSlalwbp3 : null
+ getSahlwbp3 : null
+ getSlawbp3 : null
+ getSahwbp3 : null
+ getSlakvarh3 : null
+ getSahkvarh3 : null
+ getBlth4 : null
+ getDuedate4 : null
+ getMeterreaddate4 : null
+ getRptag4 : null
+ getIncentive4 : null
+ getValuedatetax4 : null
+ getPinaltyfee4 : null
+ getSlalwbp4 : null
+ getSahlwbp4 : null
+ getSlawbp4 : null
+ getSahwbp4 : null
+ getSlakvarh4 : null
+ getSahkvarh4 : null
+ getAlamat : null
+ getPlnnpwp : null
+ getSubscribernpwp : null
+ getTotalrpgtag : null
+ getInfoteks : null
+
+
+
+PulsaRespone ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.pulsa</methodName>
+<params>
+<param>
+<value><string>XX100</string></value>
+</param>
+<param>
+<value><string>081807366329</string></value>
+</param>
+<param>
+<value><string>9385</string></value>
+</param>
+<param>
+<value><string>4671</string></value>
+</param>
+<param>
+<value><string>3990</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value></value>
+<value></value>
+<value></value>
+<value></value>
+<value></value>
+<value></value>
+<value><string>3990</string></value>
+<value></value>
+<value></value>
+<value></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+ Keterangan : null
+ KodeProduksi : 3990
+ Nohp : null
+ Pin : null
+ Ref1 : null
+ Ref2 : null
+ Sn : null
+ Status : null
+ UID : null
+ Waktu : null
+
+
+
+TelkomGroup ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>SPEEDY</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>SPEEDY</string></value>
+<value><string>20130609154754</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>2500</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584159</string></value>
+<value><string>0</string></value>
+<value><string>14</string></value>
+<value><string>EXT: NOMOR TELEPON/IDPEL TIDAK TERDAFTAR</string></value>
+<value><string>038</string></value>
+<value><string>859947758</string></value>
+<value><string>  </string></value>
+<value><string>    </string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+TelkomGroup not Responding ...
+
+
+
+TelPascaBayar ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>TELEPON</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string>TELEPON</string></value>
+<value><string>20130609154754</string></value>
+<value><string>38859947758</string></value>
+<value><string>NULL</string></value>
+<value><string>NULL</string></value>
+<value><string>0</string></value>
+<value><string>2500</string></value>
+<value><string>BS0002</string></value>
+<value><string>975864</string></value>
+<value><string>NULL</string></value>
+<value><string>88584160</string></value>
+<value><string>0</string></value>
+<value><string>30</string></value>
+<value><string>EXT: FORMAT ERROR</string></value>
+<value><string>0388</string></value>
+<value><string>599477580</string></value>
+<value><string>  </string></value>
+<value><string>    </string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+ 	tpb.getBiayaadmin()	: 2500
+ 	tpb.getBillamount1()	: null
+ 	tpb.getBillamount2()	: null
+ 	tpb.getBillamount3()	: null
+ 	tpb.getBilleradmincharge()	: null
+ 	tpb.getBillercode()	: 599477580
+ 	tpb.getBillquantity()	: 0
+ 	tpb.getCustomeraddress()	: null
+ 	tpb.getCustomerdetailinformation()	: null
+ 	tpb.getCustomerid1()	: null
+ 	tpb.getCustomerid2()	: null
+ 	tpb.getCustomerid3()	: null
+ 	tpb.getCustomername()	: null
+ 	tpb.getFirstmeterread1()	: null
+ 	tpb.getFirstmeterread2()	: null
+ 	tpb.getFirstmeterread3()	: null
+ 	tpb.getIdpelanggan1()	: NULL
+ 	tpb.getIdpelanggan2()	: null
+ 	tpb.getIdpelanggan3()	: null
+ 	tpb.getKeterangan()	: EXT: FORMAT ERROR
+ 	tpb.getKodeProduksi()	: TELEPON
+ 	tpb.getLastmeteread1()	: null
+ 	tpb.getLastmeteread2()	: null
+ 	tpb.getLastmeteread3()	: null
+ 	tpb.getMiscamount1()	: null
+ 	tpb.getMiscamount2()	: null
+ 	tpb.getMiscamount3()	: null
+ 	tpb.getMothperiod1()	: null
+ 	tpb.getMothperiod2()	: null
+ 	tpb.getMothperiod3()	: null
+ 	tpb.getNohp()	: null
+ 	tpb.getNominal()	: 0
+ 	tpb.getNoref1()	: 0
+ 	tpb.getNoref2()	: 0
+ 	tpb.getPenalty1()	: null
+ 	tpb.getPenalty2()	: null
+ 	tpb.getPenalty3()	: null
+ 	tpb.getPin()	: 975864
+ 	tpb.getProvidername()	: null
+ 	tpb.getRef1()	: NULL
+ 	tpb.getRef2()	: 88584160
+ 	tpb.getRef3()	: 0
+ 	tpb.getSn()	: null
+ 	tpb.getStatus()	: 30
+ 	tpb.getSwitcherId()	: 0388
+ 	tpb.getTotalbillamount()	: null
+ 	tpb.getUID()	: BS0002
+ 	tpb.getWaktu()	: 20130609154754
+ 	tpb.getYearperiod1()	: null
+ 	tpb.getYearperiod2()	: null
+ 	tpb.getYearperiod3()	: null
+
+
+
+TVKabel ....
+
+
+
+<?xml version="1.0"?>
+<methodCall>
+<methodName>fastpay.inq</methodName>
+<params>
+<param>
+<value><string>TVAURORA</string></value>
+</param>
+<param>
+<value><string>38859947758</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+<param>
+<value><string>BS0002</string></value>
+</param>
+<param>
+<value><string>975864</string></value>
+</param>
+<param>
+<value><string>null</string></value>
+</param>
+</params>
+</methodCall>
+<?xml version="1.0"?>
+<methodResponse>
+<params>
+<param>
+<value><array>
+<data>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string></string></value>
+<value><string>NULL</string></value>
+<value><string></string></value>
+<value><string>0</string></value>
+<value><string></string></value>
+<value><string></string></value>
+</data>
+</array></value>
+</param>
+</params>
+</methodResponse>
+ 	tk.getAdmincharge()	: null
+ 	tk.getBiayaadmin()	: null
+ 	tk.getBillamount()	: null
+ 	tk.getBilleradminfee()	: null
+ 	tk.getBillercode()	: null
+ 	tk.getBillerrefnumber()	: null
+ 	tk.getBillquantity()	: null
+ 	tk.getCustomeinfo1()	: null
+ 	tk.getCustomeinfo2()	: null
+ 	tk.getCustomeinfo3()	: null
+ 	tk.getCustomeraddress()	: null
+ 	tk.getCustomerId()	: null
+ 	tk.getCustomerName()	: null
+ 	tk.getDuedate()	: null
+ 	tk.getIdpelanggan1()	: NULL
+ 	tk.getIdpelanggan2()	: 0
+ 	tk.getIdpelanggan3()	: null
+ 	tk.getKeterangan()	: null
+ 	tk.getKodeproduk()	: 0
+ 	tk.getMiscfee()	: null
+ 	tk.getMiscnumber()	: null
+ 	tk.getNominal()	: null
+ 	tk.getNoref1()	: null
+ 	tk.getNoref2()	: null
+ 	tk.getPenalty()	: null
+ 	tk.getPeriode()	: null
+ 	tk.getPin()	: null
+ 	tk.getPpn()	: null
+ 	tk.getProductcategory()	: null
+ 	tk.getPtname()	: null
+ 	tk.getRef1()	: null
+ 	tk.getRef2()	: null
+ 	tk.getRef3()	: null
+ 	tk.getStampduty()	: null
+ 	tk.getStatus()	: null
+ 	tk.getSwitcherId()	: null
+ 	tk.getUid()	: null
+ 	tk.getWaktu()	: 0

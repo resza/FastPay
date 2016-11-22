@@ -1,0 +1,96 @@
+tc011telpon1
+Status : 14
+Keterangan : EXT: NOMOR TELEPON/IDPEL TIDAK TERDAFTAR
+Account : 021215274541
+Exception java.lang.NullPointerException
+Exception java.lang.NullPointerException
+tc011telpon7
+Status : 14
+Keterangan : EXT: NOMOR TELEPON/IDPEL TIDAK TERDAFTAR
+Account : 021123456789
+tc012speedy1
+Status : 00
+Keterangan : APPROVE
+Account : 152426200082
+before setting Ref2 = 202714803
+tc012speedy2
+Status : 00
+Keterangan : APPROVE
+Account : 152426200082
+Exception java.lang.NullPointerException
+Exception java.lang.NullPointerException
+tc012speedy1
+Status : 14
+Keterangan : EXT: NOMOR TELEPON/IDPEL TIDAK TERDAFTAR
+Account : 123456789101
+tc013tvision1
+Status : 88
+Keterangan : EXT: TRANSAKSI DITOLAK KARENA SEMUA ATAU SALAH SATU TUNGGAKAN/TAGIHAN SUDAH DIBAYAR
+Account : 127202182124
+Exception java.lang.NullPointerException
+Exception java.lang.NullPointerException
+tc013tvision7
+Status : 14
+Keterangan : EXT: NOMOR TELEPON/IDPEL TIDAK TERDAFTAR
+Account : 123456789101
+tc021plnpasca1
+Status : 07
+Keterangan : Layanan PLN PASCABAYAR sedang dalam gangguan. Mohon maaf.
+Account : 01117082246
+Exception java.lang.NullPointerException
+Exception java.lang.NullPointerException
+tc021plnpasca7
+Status : 07
+Keterangan : Layanan PLN PASCABAYAR sedang dalam gangguan. Mohon maaf.
+Account : 123456789101
+tc021plnnon1
+Status : 07
+Keterangan : Layanan PLN NON TAGLIST sedang dalam gangguan. Mohon maaf.
+Account : 123456789101
+tc021plnnon3
+Status : 07
+Keterangan : Layanan PLN NON TAGLIST sedang dalam gangguan. Mohon maaf.
+Account : 123456789101
+tc031tvkabel1
+Status : 20
+Keterangan : EXT: CUSTOMER NUMBER NOT FOUND
+Account : 5392112011703
+tc031tvkabel1
+Status : 20
+Keterangan : EXT: CUSTOMER NUMBER NOT FOUND
+Account : 1234567891234
+tc041pulsa1
+Status : 00
+Keterangan : SEDANG DIPROSES
+Account : 081807366329
+tc041pulsa2
+Status : 17
+Keterangan : TRX pulsa XR10 081387998643 GAGAL. Jenis produk tidak cocok.
+Account : 081387998643
+tc041pulsa3
+Status : 33
+Keterangan : Transaksi double, silakan cek report transaksi untuk memastikan
+Account : 081387998643
+tc041pulsa1
+Status : null
+Keterangan : null
+Account : 081807366329
+tc041pulsa1
+Status : null
+Keterangan : null
+Account : 081807366329
+tc041pulsa1
+Status : null
+Keterangan : null
+Account : 081807366329
+tc061selpasca1
+Status : 20
+Keterangan : No hp salah (No HP yang diinputkan tidak sesuai dengan produk yang dipilih)
+Account : 01117082246
+Exception java.lang.NullPointerException
+Exception java.lang.NullPointerException
+tc061selpasca7
+Status : 20
+Keterangan : No hp salah (No HP yang diinputkan tidak sesuai dengan produk yang dipilih)
+Account : 123456789101
+
